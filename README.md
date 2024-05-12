@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Badmus+Qudus+Ayomide+A+FrontEnd+Developer)](https://git.io/typing-svg)
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Dood day🙏🏻, I'm Badmus Qudus Ayomide <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
@@ -80,11 +82,19 @@ Friday                   456 commits         ███░░░░░░░░�
 Saturday                 558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 Sunday                   906 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
 ```
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadmusQudusAyomide&javascript,css,scss,html,python&theme=tokyonight)
 ![Lines of code](https://github-readme-stats.vercel.app/api/top-langs?username=BadmusQudusAyomide&html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)]
 ![Lines of code](https://github-readme-stats.vercel.app/api?username=BadmusQudusAyomide&theme=algolia&show_icons=true)](https://github.com/BadmusQudusAyomide)
+-->
+
+![Github Stats](https://raw.githubusercontent.com/BadmusQudusAyomide/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Github Stats](https://raw.githubusercontent.com/BadmusQudusAyomide/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Github Stats](https://raw.githubusercontent.com/BadmusQudusAyomide/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Github Stats](https://raw.githubusercontent.com/BadmusQudusAyomide/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BadmusQudusAyomide&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/BadmusQudusAyomide/github-readme-stats)
 
 
 
