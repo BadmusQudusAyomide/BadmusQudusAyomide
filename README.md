@@ -18,7 +18,7 @@
  [![wakatime](https://wakatime.com/badge/user/018d65c8-1382-4efe-b44d-931697b3d78c.svg)](https://wakatime.com/@018d65c8-1382-4efe-b44d-931697b3d78c)
 
 
-
+<a href="https://gitroll.io/profile/uzvMPpduKk9aMmkcminljIi08tTC3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uzvMPpduKk9aMmkcminljIi08tTC3" alt="GitRoll Profile Badge"/></a>
 
 ```javascript
 const anmol = {
