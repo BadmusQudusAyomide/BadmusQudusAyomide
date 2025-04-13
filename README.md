@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Badmus+Qudus+Ayomide+A+FrontEnd+Developer)](https://git.io/typing-svg)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BadmusQudusAyomide)](https://git.io/streak-stats)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=BadmusQudusAyomide&theme=default&show_icons=true&hide_border=true&count_private=true" alt="BadmusQudusAyomide's GitHub Stats" />
 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Good day🙏🏻, I'm Badmus Qudus Ayomide <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
