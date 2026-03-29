@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Badmus+Qudus+Ayomide+A+FrontEnd+Developer)](https://git.io/typing-svg)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BadmusQudusAyomide)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BadmusQudusAyomide&cache_seconds=1)](https://git.io/streak-stats)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=compact)
   <img src="https://github-readme-stats.vercel.app/api?username=BadmusQudusAyomide&theme=default&show_icons=true&hide_border=true&count_private=true" alt="BadmusQudusAyomide's GitHub Stats" />
 
